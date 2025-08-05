@@ -237,7 +237,8 @@ The system is fully functional and ready for production use. It can be easily ex
 
 ---
 
-**Developer**: [Your Name]  
-**Date**: February 2025  
+**Developer**: Chethan M  
+**Date**: August 2025  
 **Assignment**: CSTE International - Full Stack Development  
+
 **Status**: ✅ COMPLETED - FULL STACK SOLUTION 

@@ -116,14 +116,8 @@ Airtable Dashboard (Visual Analytics)
 2. `web_app/SKUMapper.py` - SKU mapping engine
 3. `web_app/templates/index.html` - Upload interface
 4. `web_app/templates/results.html` - Results display
-5. `database_setup.sql` - Database schema
-6. `setup_database.py` - Database initialization
-7. `process_data.py` - Data processing demo
-8. `verify_system.py` - System verification script
-9. `AIRTABLE_DASHBOARD_GUIDE.md` - Dashboard creation guide
-10. `AIRTABLE_AI_PROMPTS.md` - AI prompt reference
-11. `README.md` - Complete documentation
-12. `PROJECT_SUMMARY.md` - Technical overview
+5. `README.md` - Complete documentation
+6. `PROJECT_SUMMARY.md` - Technical overview
 
 ---
 
@@ -179,12 +173,6 @@ python app.py
 - Check processing status in real-time
 - Click "View Results" for detailed analysis
 - Review SKU mappings and statistics
-
-### **4. Access Airtable Dashboard**
-- Follow `AIRTABLE_DASHBOARD_GUIDE.md`
-- Use AI prompts from `AIRTABLE_AI_PROMPTS.md`
-- Import processed CSV data
-- View beautiful, professional dashboard
 
 ---
 
@@ -242,3 +230,4 @@ The system is fully functional and ready for production use. It can be easily ex
 **Assignment**: CSTE International - Full Stack Development  
 
 **Status**: ✅ COMPLETED - FULL STACK SOLUTION 
+
